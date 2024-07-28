@@ -8,7 +8,7 @@ telling a story through data.
 
 **Team Members**: Ian Kelk, Ronan Fonseca
 
-* URL to website: https://iankelk.github.io/project/
+* URL to website: https://iankelk.github.io/fantastic-news/
 * URL to video: https://www.youtube.com/watch?v=V8gTSvInKDA
 * Process Book: https://docs.google.com/document/d/1WOu36iGf9W7vIFWeQ7CbhUcI6EFkc7w7gDxS5gHseFw/edit?usp=sharing
 
