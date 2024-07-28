@@ -3,7 +3,7 @@ let myWordCloud;
 
 // Load data using promises
 let promisesWordcloud = [
-    d3.csv("/project/visuals/wordcloud/data/wordcloud.csv")
+    d3.csv("./visuals/wordcloud/data/wordcloud.csv")
 ];
 
 Promise.all(promisesWordcloud)
